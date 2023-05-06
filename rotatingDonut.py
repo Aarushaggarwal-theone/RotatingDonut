@@ -59,10 +59,11 @@ def pprint(array: np.ndarray) -> None:
     print(*[" ".join(row) for row in array], sep="\n")
 
 
-if __name__ == "__main__":
-    while True :
-        time.sleep(0.02)
-        A += theta_spacing
-        B += phi_spacing
-        print("\x1b[H")
-        pprint(render_frame(A, B))
+while True :
+    time.sleep(0.02)
+    A += theta_spacing
+    B += phi_spacing
+    print("\x1b[H")
+    pprint(render_frame(A, B)
+           
+#THE END
