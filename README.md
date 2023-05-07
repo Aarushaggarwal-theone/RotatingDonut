@@ -6,6 +6,18 @@ It uses trigonometry to perform the necessary calculations to create the 3D shap
 
 The resulting characters are then printed to the console to create the 3D donut illusion. This effct is created by the different densities of ASCII Characters that when placed together give off darker/lighter appearences which is used in mapping of ASCII art and images.
 
+#Requirements
+
+Flutter and Dart must be installed from https://docs.flutter.dev/get-started/install
+
+Java (OpenJDK) from https://openjdk.org/install/
+
+Node from https://nodejs.org/en
+
+Python 3.11 from python.org
+
+
+
 ## Run the C version
 
 To run the C Version
