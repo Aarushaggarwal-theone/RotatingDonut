@@ -42,6 +42,7 @@ int main()
             }
         }
         printf("\x1b[H");
+        usleep(40000);
         for (k = 0; k < 1761; k++)
         {
             putchar(k % 80 ? b[k] : 10);

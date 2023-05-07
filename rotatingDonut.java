@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Donut {
+public class rotatingDonut {
     public static void main(String[] args) {
         int k;
         double A = 0, B = 0, i, j;
