@@ -63,6 +63,6 @@ while True :
     A += theta_spacing
     B += phi_spacing
     print("\x1b[H")
-    pprint(render_frame(A, B)
+    pprint(render_frame(A, B))
            
 #THE END
