@@ -6,10 +6,36 @@ It uses trigonometry to perform the necessary calculations to create the 3D shap
 
 The resulting characters are then printed to the console to create the 3D donut illusion. This effct is created by the different densities of ASCII Characters that when placed together give off darker/lighter appearences which is used in mapping of ASCII art and images.
 
-## Run the c version
+## Run the C version
 
 To run the C Version
 
 once cloned the repository or copied the code
 
 use ``$ make rotatingDonut`` to compile it and then ``$ ./rotatingDonut`` to run it
+
+## Run the Dart version
+
+To run the Dart Version
+
+once cloned the repository or copied the code
+
+use ```dart run rotatingDonut.dart```
+
+
+## Run the Java version
+
+To run the Java Version
+
+once cloned the repository or copied the code
+
+use ```java rotatingDonut.java```
+
+
+## Run the JavaScript version
+
+To run the Dart Version
+
+once cloned the repository or copied the code
+
+use ```node rotatingDonut.js```
