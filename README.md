@@ -46,8 +46,9 @@ use ```java rotatingDonut.java```
 
 ## Run the JavaScript version
 
-To run the Dart Version
+To run the JS Version
 
 once cloned the repository or copied the code
 
 use ```node rotatingDonut.js```
+
